@@ -1,0 +1,16 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "school_dev",
+      "user": "saheedbaba",
+      "password": "password123"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "school_test",
+      "user": "saheedbaba",
+      "password": "password123"
+    }
+  }
